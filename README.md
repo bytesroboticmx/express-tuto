@@ -1,4 +1,4 @@
-    Agregamos la dependencia, escribiendo en la terminal:
+Agregamos la dependencia, escribiendo en la terminal:
 
 npm install — save-dev nodemon
 
